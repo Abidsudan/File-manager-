@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Paper peaking out of the folder -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M42,32 L60,32 L60,50 L42,50 Z" />
+    
+    <!-- Outer back folder outline -->
+    <path
+        android:fillColor="#FF9100"
+        android:pathData="M24,34 C24,31.8 25.8,30 28,30 L44,30 C46.2,30 48,31.8 48,34 L48,38 L80,38 C82.2,38 84,39.8 84,42 L84,74 C84,76.2 82.2,78 80,78 L28,78 C25.8,78 24,76.2 24,74 Z" />
+        
+    <!-- Front folder flap overlay -->
+    <path
+        android:fillColor="#FFC400"
+        android:pathData="M24,44 L84,44 L80,78 L28,78 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "File Manager",
+  "description": "A professional-grade local and cloud file manager featuring a local database cache, storage analysis, and a secure vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
